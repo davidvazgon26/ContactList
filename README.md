@@ -15,3 +15,7 @@ The front end was create with React and Materialize for de CSS link[https://mate
 You need change the component the method refs because is deprecated. Options for this change:
 
 https://reactjs.org/docs/refs-and-the-dom.html#legacy-api-string-refs
+
+https://reactjs.org/docs/refs-and-the-dom.html#creating-refs
+
+https://reactjs.org/docs/refs-and-the-dom.html#legacy-api-string-refs
